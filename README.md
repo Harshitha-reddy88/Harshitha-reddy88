@@ -65,6 +65,7 @@ I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in t
   </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> </a> 
   <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">  </a>
+  
 
   
 </p>
