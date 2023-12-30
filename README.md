@@ -8,7 +8,7 @@ Eager to kickstart my career in dynamic profession
 
 Currently, I'm  studying <b>Full stack development course in Joining The Dots Bootcamp </b>.
 
-I am completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in the year of 2022.
+I have completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in the year of 2022.
 
 - 🌱 I’m currently learning **full stack develepment**
 
