@@ -28,7 +28,7 @@ I have completed <b>BSc</b> from<b> Sri padmavathi women's degree college</b> in
   
    - :dart:FrameWork/Libraries - **React.js<br/>
   
-   - :dart:Databases/Backend -Mysql,DBMS<br/>
+   - :dart:Databases/Backend -Mysql,DBMS,Springboot<br/>
   
   - :dart:Others -PYTHON
 <p align="left">
